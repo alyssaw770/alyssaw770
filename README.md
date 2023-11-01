@@ -15,7 +15,8 @@ Full Stack Javascript through The Odin Project. The full course will contain:<br
 - NodeJS<br>
 
 <h2>📄Certifications</h2>
-- <a href="https://www.freecodecamp.org/certification/alyssawilliams/responsive-web-design">Responsive Web Design</a>
+- <a href="https://www.freecodecamp.org/certification/alyssawilliams/responsive-web-design">Responsive Web Design</a><br>
+- <a href="https://www.linkedin.com/learning/certificates/1950e72c55a39c12b7b9c8aae0a1979a74433e98c7a46a2d3758bea7fafb4267?u=74650474">Angular Essential Training</a>
 
 <h2>📫 How to reach me: ...</h2>
 <p>

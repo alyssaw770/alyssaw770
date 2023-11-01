@@ -16,7 +16,7 @@ Full Stack Javascript through The Odin Project. The full course will contain:<br
 
 <h2>📫 How to reach me: ...</h2>
 <p>
-  <a href="https://www.linkedin.com/alyssawill8" rel="nofollow noreferrer">
+  <a href="https://www.linkedin.com/in/alyssawill8/" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a>
 </p>

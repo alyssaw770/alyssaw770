@@ -2,7 +2,7 @@
 
 <h2>Front End Development Projects:</h2>
 - <a href="https://alyssaw770.github.io/odin-recipes/index.html" target="_blank">Recipes</a><br>
-- <a href="(https://alyssaw770.github.io./landing-page/)" target="_blank">BookHub Landing Page</a><br>
+- <a href="https://alyssaw770.github.io./landing-page/" target="_blank">BookHub Landing Page</a><br>
 - <a href="https://alyssaw770.github.io/rock-paper-scissors/" target="_blank">Rock Paper Scissors</a><br>
 
 <!--

@@ -20,6 +20,9 @@ Full Stack Javascript through The Odin Project. The full course will contain:<br
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a>
 </p>
+
+<h2>📄Certifications</h2>
+- [Responsive Web Design](https://www.freecodecamp.org/certification/alyssawilliams/responsive-web-design)
 <!--
 **alyssaw770/alyssaw770** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

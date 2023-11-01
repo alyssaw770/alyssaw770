@@ -14,6 +14,9 @@ Full Stack Javascript through The Odin Project. The full course will contain:<br
 - React<br>
 - NodeJS<br>
 
+<h2>📄Certifications</h2>
+- <a href="https://www.freecodecamp.org/certification/alyssawilliams/responsive-web-design">Responsive Web Design</a>
+
 <h2>📫 How to reach me: ...</h2>
 <p>
   <a href="https://www.linkedin.com/in/alyssawill8/" rel="nofollow noreferrer">
@@ -21,8 +24,7 @@ Full Stack Javascript through The Odin Project. The full course will contain:<br
   </a>
 </p>
 
-<h2>📄Certifications</h2>
-- [Responsive Web Design](https://www.freecodecamp.org/certification/alyssawilliams/responsive-web-design)
+
 <!--
 **alyssaw770/alyssaw770** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,9 +1,14 @@
 <h1>Hi, I'm Alyssa!</h1>
 
 <h2>Front End Development Projects:</h2>
+-The Odin Project 
+
 - <a href="https://alyssaw770.github.io/odin-recipes/index.html" target="_blank">Recipes</a><br>
 - <a href="https://alyssaw770.github.io./landing-page/" target="_blank">BookHub Landing Page</a><br>
 - <a href="https://alyssaw770.github.io/rock-paper-scissors/" target="_blank">Rock Paper Scissors</a><br>
+
+-FreeCodeCamp
+
 <h2>🔭 I’m currently working on ...</h2>
 Enhancing my front-end development skills such as HTML and CSS through The Odin Project.
 <h2>🌱 I’m currently learning ...</h2>

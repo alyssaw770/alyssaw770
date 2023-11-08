@@ -9,6 +9,10 @@
 
 -FreeCodeCamp
 
+- <a href="https://alyssaw770.github.io/technical-doc-page/" target="_blank">HTML Technical Documentation</a><br>
+- <a href="https://alyssaw770.github.io/survey-form/" target="_blank">Survey Form</a><br>
+- <a href="https://alyssaw770.github.io/FCC-landing-page/" target="_blank">Book Journey Landing Page</a><br>
+
 <h2>🔭 I’m currently working on ...</h2>
 Enhancing my front-end development skills such as HTML and CSS through The Odin Project.
 <h2>🌱 I’m currently learning ...</h2>

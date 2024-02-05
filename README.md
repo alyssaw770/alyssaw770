@@ -14,16 +14,11 @@
 - <a href="https://alyssaw770.github.io/FCC-landing-page/" target="_blank">Book Journey Landing Page</a><br>
 
 <h2>🔭 I’m currently working on ...</h2>
-C# programming alongside Visual Studio. <br>
- - Calculator Console App using C# <br>
-   - <a href="https://github.com/alyssaw770/Calculator" target="_blank">Calculator Console App</a>
+ Calculator Console App using C# <br>
+ - <a href="https://github.com/alyssaw770/Calculator" target="_blank">Calculator Console App</a>
+ 
 <h2>🌱 I’m currently learning ...</h2>
-Full Stack Javascript through The Odin Project. The full course will contain:<br>
-- HTML<br>
-- CSS<br>
-- Javascript<br>
-- React<br>
-- NodeJS<br>
+C# programming alongside Visual Studio.
 
 <h2>📄Certifications</h2>
 - <a href="https://www.freecodecamp.org/certification/alyssawilliams/responsive-web-design">Responsive Web Design</a><br>

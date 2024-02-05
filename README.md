@@ -15,7 +15,7 @@
 
 <h2>🔭 I’m currently working on ...</h2>
 C# programming alongside Visual Studio.
- - Calculator Console App using C#
+ - Calculator Console App using C# <br>
    - <a href="https://github.com/alyssaw770/Calculator" target="_blank">Calculator Console App</a>
 <h2>🌱 I’m currently learning ...</h2>
 Full Stack Javascript through The Odin Project. The full course will contain:<br>

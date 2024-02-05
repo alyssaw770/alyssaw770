@@ -1,6 +1,6 @@
 <h1>Hi, I'm Alyssa!</h1>
 
-<h2>Front End Development Projects:</h2>
+<h3>Development Projects:</h3>
 -The Odin Project 
 
 - <a href="https://alyssaw770.github.io/odin-recipes/index.html" target="_blank">Recipes</a><br>
@@ -12,13 +12,18 @@
 - <a href="https://alyssaw770.github.io/technical-doc-page/" target="_blank">HTML Technical Documentation</a><br>
 - <a href="https://alyssaw770.github.io/survey-form/" target="_blank">Survey Form</a><br>
 - <a href="https://alyssaw770.github.io/FCC-landing-page/" target="_blank">Book Journey Landing Page</a><br>
+<br>
+-C#
 
+- <a href="https://github.com/alyssaw770/Calculator" target="_blank">Calculator Console App</a>
+
+  
 <h2>🔭 I’m currently working on ...</h2>
- Calculator Console App using C# <br>
- - <a href="https://github.com/alyssaw770/Calculator" target="_blank">Calculator Console App</a>
- 
+ C# programming language
 <h2>🌱 I’m currently learning ...</h2>
-C# programming alongside Visual Studio.
+- C#<br>
+-.NET Framework<br>
+- Visual Studio
 
 <h2>📄Certifications</h2>
 - <a href="https://www.freecodecamp.org/certification/alyssawilliams/responsive-web-design">Responsive Web Design</a><br>

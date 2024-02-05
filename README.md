@@ -14,7 +14,7 @@
 - <a href="https://alyssaw770.github.io/FCC-landing-page/" target="_blank">Book Journey Landing Page</a><br>
 
 <h2>🔭 I’m currently working on ...</h2>
-C# programming alongside Visual Studio.
+C# programming alongside Visual Studio. <br>
  - Calculator Console App using C# <br>
    - <a href="https://github.com/alyssaw770/Calculator" target="_blank">Calculator Console App</a>
 <h2>🌱 I’m currently learning ...</h2>

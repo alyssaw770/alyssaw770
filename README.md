@@ -14,7 +14,9 @@
 - <a href="https://alyssaw770.github.io/FCC-landing-page/" target="_blank">Book Journey Landing Page</a><br>
 
 <h2>🔭 I’m currently working on ...</h2>
-Enhancing my front-end development skills such as HTML and CSS through The Odin Project.
+C# programming alongside Visual Studio.
+ - Calculator Console App using C#
+   - <a href="https://github.com/alyssaw770/Calculator" target="_blank">Calculator Console App</a>
 <h2>🌱 I’m currently learning ...</h2>
 Full Stack Javascript through The Odin Project. The full course will contain:<br>
 - HTML<br>

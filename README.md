@@ -16,7 +16,7 @@
 -C#
 
 - <a href="https://github.com/alyssaw770/Calculator" target="_blank">Calculator Console App</a>
-- <a href="" target="_blank">Calculator Console App</a>
+- <a href="https://github.com/alyssaw770/dice-game" target="_blank">Dice Game Console App</a>
 
 
   

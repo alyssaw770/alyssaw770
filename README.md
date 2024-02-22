@@ -22,7 +22,7 @@
 - <a href="https://github.com/alyssaw770/MacEFConsoleApp" target="_blank">Entity Framework Console App</a>  
 <h2>🔭 I’m currently working on ...</h2>
  Building Web APIs in .NET
- - <a href="https://github.com/alyssaw770/MacEFConsoleApp" target="_blank">Book Review</a>
+ - <a href="https://github.com/alyssaw770/book-review)" target="_blank">Book Review</a>
 <h2>🌱 I’m currently learning ...</h2>
 - C#<br>
 -.NET Framework<br>

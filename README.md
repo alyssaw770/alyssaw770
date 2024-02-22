@@ -13,11 +13,11 @@
 - <a href="https://alyssaw770.github.io/survey-form/" target="_blank">Survey Form</a><br>
 - <a href="https://alyssaw770.github.io/FCC-landing-page/" target="_blank">Book Journey Landing Page</a><br>
 <br>
--C#
+-C# & .NET
 
 - <a href="https://github.com/alyssaw770/Calculator" target="_blank">Calculator Console App</a>
 - <a href="https://github.com/alyssaw770/dice-game" target="_blank">Dice Game Console App</a>
-
+- <a href="https://github.com/alyssaw770/dice-game" target="_blank">MSTest</a>
 
   
 <h2>🔭 I’m currently working on ...</h2>

@@ -17,8 +17,8 @@
 
 - <a href="https://github.com/alyssaw770/Calculator" target="_blank">Calculator Console App</a>
 - <a href="https://github.com/alyssaw770/dice-game" target="_blank">Dice Game Console App</a>
-- <a href="https://github.com/alyssaw770/dice-game" target="_blank">MSTest</a>
-
+- <a href="=https://github.com/alyssaw770/unit-testing-using-mstest" target="_blank">MSTest</a>
+- <a href="=https://github.com/alyssaw770/unit-testing-using-mstest" target="_blank">MSTest</a>
   
 <h2>🔭 I’m currently working on ...</h2>
  C# programming language

@@ -19,9 +19,9 @@
 - <a href="https://github.com/alyssaw770/dice-game" target="_blank">Dice Game Console App</a>
 - <a href="https://github.com/alyssaw770/unit-testing-using-mstest" target="_blank">MSTest</a>
 - <a href="https://github.com/alyssaw770/MacEFConsoleApp" target="_blank">Entity Framework Console App</a>
-- <a href="https://github.com/alyssaw770/MacEFConsoleApp" target="_blank">Entity Framework Console App</a>  
+
 <h2>🔭 I’m currently working on ...</h2>
- Building Web APIs in .NET
+ Building Web APIs in .NET<br>
  - <a href="https://github.com/alyssaw770/book-review)" target="_blank">Book Review</a>
 <h2>🌱 I’m currently learning ...</h2>
 - C#<br>

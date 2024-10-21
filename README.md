@@ -22,7 +22,7 @@
 
 <h2>🔭 I’m currently working on ...</h2>
  Building Web APIs in .NET<br>
- - <a href="https://github.com/alyssaw770/book-review" target="_blank">Book Review</a>
+ - <a href="https://github.com/alyssaw770/BookReviewApp" target="_blank">Book Review App</a>
 <h2>🌱 I’m currently learning ...</h2>
 - C#<br>
 -.NET Framework<br>
